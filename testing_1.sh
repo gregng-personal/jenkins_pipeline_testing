@@ -8,5 +8,5 @@ if [ $1 -gt 5 ];
 then
     echo "Today at ${DATE_TODAY} the user has entered a number greater than 5"
 else
-    echo "Today at ${DATE_TODAY} the user has entered a number less than 5"
+    echo "Today at ${DATE_TODAY} the user has entered a number less than "
 fi
